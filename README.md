@@ -10,7 +10,7 @@ A free, open-source **Windows → Linux migration assistant**. It inventories yo
 - Automatic bookmark, history and password transfer into the browser you choose
 - Guided first-run: updates your new system, shares Linux tips as you go
 
-➡️ **[Check out PenguinPort →](https://github.com/samueladams873/penguinport)**
+➡️ **[Check out PenguinPort →](https://github.com/voidwhereprohibited/penguinport)**
 
 #### 🛠️ Tech I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
