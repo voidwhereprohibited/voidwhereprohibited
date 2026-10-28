@@ -1,21 +1,14 @@
-### Hi, I build open-source desktop software 🐧
+# Hi, I'm Roger
 
-I make tools that take the pain out of switching to Linux — focused on people who have never touched a terminal.
+I build practical tools with Python and Linux: automation, data tools and small desktop apps that save people time.
+I test what I ship, and I use AI tools alongside my own judgment.
 
-#### 🚢 PenguinPort
-A free, open-source **Windows → Linux migration assistant**. It inventories your Windows apps, maps each one to a real Linux alternative, checks your hardware, and moves your files, bookmarks and passwords across — all without typing a single command.
+## Featured projects
+- **[RetroBake](https://github.com/voidwhereprohibited/retrobake)** - Bake your own NES and SNES games.
+- **[PenguinPort](https://github.com/voidwhereprohibited/penguinport)** - Move from Windows to Linux without losing a thing.
 
-- Side-by-side app picker with logos: see what you have on Windows, click the Linux replacement you want
-- Moves Documents, Pictures, Downloads and personal data, not just an app report
-- Automatic bookmark, history and password transfer into the browser you choose
-- Guided first-run: updates your new system, shares Linux tips as you go
+## Work with me
+I take on small freelance projects: automation, data clean-up and Linux or Python tooling.
 
-➡️ **[Check out PenguinPort →](https://github.com/voidwhereprohibited/penguinport)**
-
-#### 🛠️ Tech I work with
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt%2FPySide6-41CD52?style=flat&logo=qt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-#### 📌 Currently
-Building PenguinPort in the open. Contributions, issues and ideas welcome.
+## Say hello
+Questions or ideas? Open an issue on either project. I'm happy to help.
